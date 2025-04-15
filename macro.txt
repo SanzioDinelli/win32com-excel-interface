@@ -1,0 +1,11 @@
+Sub insert_image()
+'
+' insert_image Macro
+'
+
+'
+    Range("A2").Select
+    Selection.InsertPictureInCell ( _
+        "C:\Users\marid\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-08-06 205936.png" _
+        )
+End Sub

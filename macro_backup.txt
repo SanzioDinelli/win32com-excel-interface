@@ -1,0 +1,11 @@
+Sub treiker()
+'
+' treiker Macro
+'
+
+'
+    Range("F1").Select
+    Selection.InsertPictureInCell ( _
+        "C:\Users\marid\OneDrive\Imagens\Capturas de tela\Captura de tela 2024-08-06 205936.png" _
+        )
+End Sub
